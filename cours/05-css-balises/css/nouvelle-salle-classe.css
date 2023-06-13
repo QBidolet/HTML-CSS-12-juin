@@ -1,0 +1,18 @@
+h1 {
+    color: gray;
+    font-family: sans-serif;
+}
+
+p.introduction {
+    color: red;
+    font-size: medium;
+} 
+
+.gras {
+    font-weight: bold;
+    color: black;
+}
+
+.description {
+    font-size: small;
+}
