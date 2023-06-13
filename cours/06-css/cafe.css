@@ -1,12 +1,12 @@
-/* Ce fichier va contenir votre css. */
+body {
+    font-family: sans-serif;
+}
 
-/*
-Pour enlever le souligner d'un élément.
-text-decoration: none; 
+a {
+    text-decoration: none;
+}
 
-Pour centrer des éléments, on peut utiliser la propriété.
-text-align: center;
-
-Pour définir la police.
-font: Arial;
- */
+.licence {
+    text-align: center;
+    color: black;
+}
